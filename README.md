@@ -8,8 +8,8 @@ Mac 上的八人桌无限注德州算力训练应用：范围推理电脑对手�
 
 在本仓库 [**Releases**](https://github.com/chenyuanheng0127-netizen/river-lab/releases/latest) 页面下载：
 
-- **`River-Lab-v2.0.0-macOS-arm64.dmg`**（推荐）：双击挂载磁盘映像，将 `River Lab.app` 拖入 `Applications`（应用程序）。
-- **`River-Lab-v2.0.0-macOS-arm64.zip`**：解压后将 `River Lab.app` 拖入“应用程序”。
+- **`River-Lab-v2.0.1-macOS-arm64.dmg`**（推荐）：双击挂载磁盘映像，将 `River Lab.app` 拖入 `Applications`（应用程序）。
+- **`River-Lab-v2.0.1-macOS-arm64.zip`**：解压后将 `River Lab.app` 拖入“应用程序”。
 
 适用 Apple Silicon（M 系列）Mac，最低系统版本 macOS 13.5；已内置 Node.js 运行时，无需安装任何外部依赖。下载后可使用同目录 `SHA256SUMS.txt` 校验文件完整性。
 
@@ -21,7 +21,7 @@ Mac 上的八人桌无限注德州算力训练应用：范围推理电脑对手�
 - **AI 深度复盘**：首次启动或菜单「River Lab → AI 复盘设置…（⌘,）」可填写 OpenAI 兼容接口地址、模型与密钥（密钥仅驻留本机后台内存）。不填也可完整使用单机、本地算力复盘与联机。
 - **存档**：单机进度保存在 App 本地存储中，首次打开会自动迁移旧版存档；退出 App 时会自动关闭房间与公网隧道。
 
-完整改动说明见同目录 `RELEASE-NOTES-v2.0.0.md`。
+完整改动说明见同目录 `RELEASE-NOTES-v2.0.1.md`。
 
 ## 第三方组件
 
